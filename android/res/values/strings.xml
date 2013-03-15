@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ClubApp</string>
+    <string name="clubHack">CLUBH4CK</string>
+    <string name="menu">MENU</string>
+    <string name="nameHint">club name</string>
+    <string name="pwdHint">admin password</string>
+    <string name="calIDHint">calendar id (optional)</string>
+    <string name="fugh">This is where you would add a club.</string>
+    <string name="add">Add A Club</string>
+    <string name="menu_settings">Settings</string>
+    <string name="api_base">http://54.235.157.129:5000</string>
+    
+    <color name="white">#FFFFFF</color>
+    <color name="slate">#6D7B8D</color>
+    
+</resources>
