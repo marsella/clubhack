@@ -1,0 +1,41 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+  		<item name="android:windowBackground">@drawable/starburst</item>
+        
+    </style>
+    
+        
+    <style name="editTextStyle">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/rounded_field</item>
+        <item name="android:textColor">@color/slate</item>
+        <item name="android:typeface">sans</item>
+        
+     	<item name="android:paddingTop">5dp</item>
+     	<item name="android:paddingBottom">5dp</item>
+     	<item name="android:paddingRight">5dp</item>
+     	
+     	<item name="android:layout_marginTop">5dp</item>
+     	<item name="android:layout_marginBottom">5dp</item>
+     	<item name="android:layout_marginRight">20dp</item>
+     	<item name="android:layout_marginLeft">20dp</item>
+     		
+     	<item name="android:gravity">center</item>
+    </style>
+
+</resources>
