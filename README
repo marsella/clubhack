@@ -1,0 +1,14 @@
+
+ClubHack
+
+Initial commits created at the Tufts Hackathon 2013.
+
+Android app: a list of clubs, each with an associated description page.
+
+Mostly a learning adventure in setting up the backend using Flask, a
+Python microframework. Front is all Android (Java and xml). Based
+heavily on previous projects, including:
+  github.com/marsella/andrea
+  github.com/chtran/tapitout
+
+Some strong language may not be suitable for children.
